@@ -1,5 +1,5 @@
 'use strict'
-
+/* TYPY PROSTE */
 /* typ liczbowy */
 
 var wyplata = 5000;
@@ -33,3 +33,4 @@ if (czyJestSmog) {
 }
 
 /* typy specjalne  */
+/* TYPY REFERENCYJNE */
